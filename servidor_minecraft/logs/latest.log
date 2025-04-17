@@ -1008,3 +1008,63 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17Apr2025 23:34:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> com se hace
 [17Apr2025 23:34:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> eso xd
 [17Apr2025 23:34:34.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> ya le di
+[17Apr2025 23:34:55.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> cuales eligieron?
+[17Apr2025 23:35:05.593] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[17Apr2025 23:35:05.622] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[17Apr2025 23:35:05.744] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[17Apr2025 23:35:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> par q sirven los gyms
+[17Apr2025 23:35:43.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25037ms or 500 ticks behind
+[17Apr2025 23:37:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Stone Age]
+[17Apr2025 23:37:05.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Mother Nature's Bounty]
+[17Apr2025 23:37:05.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Is it a Fruit or is it a Nut?]
+[17Apr2025 23:37:12.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Getting an Upgrade]
+[17Apr2025 23:37:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Doing my Part]
+[17Apr2025 23:38:50.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Monster Hunter]
+[17Apr2025 23:39:29.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [The First of Many]
+[17Apr2025 23:41:00.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [The World of Cobblemon!]
+[17Apr2025 23:42:22.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Where's my Victory Music?]
+[17Apr2025 23:43:04.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Very Berry]
+[17Apr2025 23:43:09.450] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 20216bc4-7feb-4ddb-a681-f13c1830de01
+[17Apr2025 23:43:09.451] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 20216bc4-7feb-4ddb-a681-f13c1830de01
+[17Apr2025 23:43:16.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Monster Hunter]
+[17Apr2025 23:43:22.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Very Berry]
+[17Apr2025 23:43:54.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [There's a Leek in the Boat!]
+[17Apr2025 23:44:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Sung_Jinwoo a server operator
+[17Apr2025 23:44:14.502] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f6cc5b94-03f6-47f4-80d8-5815ae10f3cf
+[17Apr2025 23:44:14.502] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f6cc5b94-03f6-47f4-80d8-5815ae10f3cf
+[17Apr2025 23:44:14.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[17Apr2025 23:44:54.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Acquire Hardware]
+[17Apr2025 23:45:05.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[17Apr2025 23:45:09.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: The difficulty has been set to Hard]
+[17Apr2025 23:45:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to DarkJunior]
+[17Apr2025 23:45:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Suit Up]
+[17Apr2025 23:46:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Isn't It Iron Pick]
+[17Apr2025 23:46:41.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported Sung_Jinwoo to edinson123pro]
+[17Apr2025 23:46:57.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro was shot by Skeleton
+[17Apr2025 23:47:03.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[17Apr2025 23:47:05.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Very Berry]
+[17Apr2025 23:47:05.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Mother Nature's Bounty]
+[17Apr2025 23:47:56.693] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29344797-7c79-49f2-a151-46b13198aa1e
+[17Apr2025 23:47:56.695] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29344797-7c79-49f2-a151-46b13198aa1e
+[17Apr2025 23:48:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Acquire Hardware]
+[17Apr2025 23:49:14.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Disconnected
+[17Apr2025 23:49:14.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[17Apr2025 23:49:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Hot Stuff]
+[17Apr2025 23:49:36.198] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@ee45fa1[id=<null>,name=edinson123pro,properties={},legacy=false] (/100.97.231.107:61646) lost connection: Disconnected
+[17Apr2025 23:49:39.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.97.231.107:61648] logged in with entity id 10358 at (-239.69999998807907, 36.0, 258.64092182673505)
+[17Apr2025 23:49:39.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
+[17Apr2025 23:50:07.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[17Apr2025 23:50:12.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[17Apr2025 23:50:51.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[17Apr2025 23:50:51.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[17Apr2025 23:50:52.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[17Apr2025 23:50:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[17Apr2025 23:50:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior was blown up by Creeper
+[17Apr2025 23:50:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Acquire Hardware]
+[17Apr2025 23:52:05.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Isn't It Iron Pick]
+[17Apr2025 23:53:55.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[17Apr2025 23:54:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[17Apr2025 23:54:31.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [We Need to Go Deeper]
+[17Apr2025 23:54:33.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior moved too quickly! -2.985618670765973,-9.030367606711188,-3.52906547654311
+[17Apr2025 23:54:33.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro moved too quickly! -9.18623471503588,-1.1661092609382138,-4.316885716132049
+[17Apr2025 23:54:33.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5060ms or 101 ticks behind
