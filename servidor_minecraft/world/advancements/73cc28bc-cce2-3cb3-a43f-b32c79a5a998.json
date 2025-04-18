@@ -12,8 +12,10 @@
       "minecraft:dark_forest": "2025-04-17 23:31:50 +0000",
       "minecraft:river": "2025-04-17 23:34:22 +0000",
       "minecraft:dripstone_caves": "2025-04-18 18:54:06 +0000",
+      "minecraft:grove": "2025-04-18 19:46:54 +0000",
       "minecraft:forest": "2025-04-17 23:34:21 +0000",
       "minecraft:flower_forest": "2025-04-17 23:49:26 +0000",
+      "minecraft:meadow": "2025-04-18 19:46:39 +0000",
       "minecraft:plains": "2025-04-17 23:42:39 +0000"
     },
     "done": false
@@ -1298,6 +1300,7 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "azure_ball": "2025-04-18 18:33:25 +0000",
+      "safari_ball": "2025-04-18 19:42:38 +0000",
       "poke_ball": "2025-04-17 23:58:15 +0000"
     },
     "done": false
@@ -1758,6 +1761,12 @@
     },
     "done": true
   },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2025-04-18 19:50:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-18 18:48:27 +0000"
@@ -1944,6 +1953,12 @@
     },
     "done": true
   },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_potion": "2025-04-18 19:42:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-18 18:55:54 +0000"
@@ -1983,6 +1998,12 @@
   "cobblemon:use_candy": {
     "criteria": {
       "use_xs_candy": "2025-04-18 19:03:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2025-04-18 19:42:38 +0000"
     },
     "done": true
   },
@@ -2103,6 +2124,12 @@
   "megamons:megamons": {
     "criteria": {
       "has_rough_geode_block": "2025-04-18 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2025-04-18 19:42:38 +0000"
     },
     "done": true
   },

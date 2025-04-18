@@ -1234,3 +1234,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 19:39:55.375] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
 [18Apr2025 19:40:03.850] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
 [18Apr2025 19:40:38.184] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:41:39.649] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:41:47.502] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:42:20.399] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:42:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 19:42:38.249] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:42:38.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [You Cannot Handle My Potions]
+[18Apr2025 19:43:22.198] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:43:56.671] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:45:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to DarkJunior]
+[18Apr2025 19:46:58.607] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 82f91b02-f5bd-44cd-a716-76655aaccf11
+[18Apr2025 19:46:58.607] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 82f91b02-f5bd-44cd-a716-76655aaccf11
+[18Apr2025 19:47:15.431] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:47:52.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has reached the goal [An Unexpected Result]
+[18Apr2025 19:49:13.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Full House]
+[18Apr2025 19:49:13.423] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:49:56.841] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:49:56.871] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:49:56.886] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:50:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Take Good Care!]
+[18Apr2025 19:50:38.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Take Good Care!]

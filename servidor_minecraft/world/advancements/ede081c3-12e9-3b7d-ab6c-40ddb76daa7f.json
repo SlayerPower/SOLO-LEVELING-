@@ -11,9 +11,11 @@
       "minecraft:dark_forest": "2025-04-17 23:42:51 +0000",
       "minecraft:river": "2025-04-17 23:44:22 +0000",
       "minecraft:dripstone_caves": "2025-04-18 18:54:01 +0000",
+      "minecraft:grove": "2025-04-18 19:47:31 +0000",
       "minecraft:forest": "2025-04-18 19:03:56 +0000",
       "minecraft:flower_forest": "2025-04-17 23:58:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 23:44:25 +0000",
+      "minecraft:meadow": "2025-04-18 19:47:18 +0000",
       "minecraft:plains": "2025-04-17 23:45:43 +0000"
     },
     "done": false
@@ -1631,9 +1633,27 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-04-18 19:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-18 19:46:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:trade_pokemon": {
+    "criteria": {
+      "trade": "2025-04-18 19:50:38 +0000"
     },
     "done": true
   },
@@ -1658,6 +1678,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-18 19:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-18 19:51:17 +0000"
     },
     "done": true
   },
@@ -1742,6 +1768,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-18 19:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-18 19:51:17 +0000"
     },
     "done": true
   },
@@ -1885,6 +1917,7 @@
   },
   "cobblemon:brew_all": {
     "criteria": {
+      "obtain_ice_heal": "2025-04-18 19:43:22 +0000",
       "obtain_potion": "2025-04-18 19:03:04 +0000",
       "obtain_antidote": "2025-04-18 19:03:01 +0000"
     },
@@ -1989,6 +2022,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-18 18:53:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/amulet_coin": {
+    "criteria": {
+      "is_rich": "2025-04-18 19:46:09 +0000"
     },
     "done": true
   },
