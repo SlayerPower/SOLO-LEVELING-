@@ -1,0 +1,173 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:annihilape",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:lax",
+      "ability": "vitalspirit",
+      "moveset": [
+        "finalgambit",
+        "outrage",
+        "stompingtantrum",
+        "screech"
+      ],
+      "ivs": {
+        "attack": 15,
+        "defence": 31,
+        "special_attack": 13,
+        "special_defence": 1,
+        "speed": 22
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:dracovish",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "cobblemon:careful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "crunch",
+        "superfang",
+        "stomp",
+        "dragonbreath"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 27,
+        "defence": 29,
+        "special_attack": 3,
+        "special_defence": 4,
+        "speed": 1
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "genderless"
+      ]
+    },
+    {
+      "species": "cobblemon:metagross",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "cobblemon:bashful",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "scaryface",
+        "psychic",
+        "miracleeye"
+      ],
+      "ivs": {
+        "hp": 30,
+        "attack": 20,
+        "defence": 12,
+        "special_defence": 28,
+        "speed": 30
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "genderless"
+      ]
+    },
+    {
+      "species": "cobblemon:charizard",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:serious",
+      "ability": "blaze",
+      "moveset": [
+        "inferno",
+        "firespin",
+        "scaryface",
+        "flameburst"
+      ],
+      "ivs": {
+        "hp": 18,
+        "attack": 25,
+        "defence": 6,
+        "special_attack": 2,
+        "special_defence": 29,
+        "speed": 6
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:dusknoir",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:lonely",
+      "ability": "pressure",
+      "moveset": [
+        "destinybond",
+        "shadowball",
+        "hex",
+        "curse"
+      ],
+      "ivs": {
+        "hp": 16,
+        "attack": 21,
+        "defence": 6,
+        "special_attack": 27,
+        "special_defence": 14,
+        "speed": 5
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:mawile",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:bold",
+      "ability": "intimidate",
+      "moveset": [
+        "playrough",
+        "faketears",
+        "taunt",
+        "ironhead"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 31,
+        "defence": 3,
+        "special_attack": 4,
+        "special_defence": 12,
+        "speed": 2
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "cobgyms complete_helper_command %player% 60 160 8 33",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": [
+    "dca3182c-f1f0-4e48-859a-6e3d26fe1909",
+    "f3be82be-10e9-41e6-8cbd-1fc707f9b7be"
+  ]
+}
