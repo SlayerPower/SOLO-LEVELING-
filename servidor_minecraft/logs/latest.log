@@ -1254,3 +1254,273 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 19:49:56.886] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [18Apr2025 19:50:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [Take Good Care!]
 [18Apr2025 19:50:38.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Take Good Care!]
+[18Apr2025 19:52:25.240] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:52:25.245] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:52:25.270] [Worker-Main-86/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:53:43.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[18Apr2025 19:54:32.846] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:54:53.757] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:55:21.992] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:56:21.075] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:56:27.775] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:57:34.209] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:57:58.848] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:78) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.item.interactive.ReviveItem$use$2.invoke(ReviveItem.java:67) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:74) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks$createBattleSelect$3.invoke(PartySelectCallbacks.java:69) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.callback.PartySelectCallbacks.handleCallback(PartySelectCallbacks.java:110) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.net.serverhandling.callback.party.PartyPokemonSelectedHandler.handle(PartyPokemonSelectedHandler.java:17) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at com.cobblemon.mod.common.api.net.ServerNetworkPacketHandler$DefaultImpls.handleOnNettyThread$lambda$0(ServerNetworkPacketHandler.java:19) ~[Cobblemon-forge-1.5.2+1.20.1.jar%23119!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23131!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Apr2025 19:58:33.031] [Worker-Main-87/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:58:33.031] [Worker-Main-87/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:58:33.072] [Worker-Main-87/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:58:34.865] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:59:15.380] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 19:59:15.381] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 19:59:15.381] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 19:59:15.382] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 19:59:15.382] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 19:59:15.382] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 19:59:15.383] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.383] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.384] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.384] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.385] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.385] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.386] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 19:59:15.387] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.387] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.387] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.387] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.388] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.388] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.389] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.389] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.390] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.390] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.391] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 19:59:15.404] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_woodland01 at 0,0,0
+[18Apr2025 19:59:15.415] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 35ms
+[18Apr2025 19:59:18.421] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:59:28.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:00:16.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Disconnected
+[18Apr2025 20:00:16.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[18Apr2025 20:00:39.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:00:44.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.97.231.107:64860] logged in with entity id 39968 at (191.4607263583274, 79.0, 1760.6823536296586)
+[18Apr2025 20:00:44.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
+[18Apr2025 20:00:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:01:12.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:01:34.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:01:35.307] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 20:01:49.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 20:01:54.080] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 20:03:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:04:09.710] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 20:04:19.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:04:35.576] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 20:05:08.275] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bc8f89bd-8a0a-4946-a420-3203dbe0c86b
+[18Apr2025 20:05:08.276] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bc8f89bd-8a0a-4946-a420-3203dbe0c86b
+[18Apr2025 20:05:48.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:05:52.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:07:19.174] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 20:08:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:08:08.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> tpp
+[18Apr2025 20:08:10.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> tp
+[18Apr2025 20:08:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> tp a ustedes
+[18Apr2025 20:08:15.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:08:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> tp
+[18Apr2025 20:08:17.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> tp
+[18Apr2025 20:08:18.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to DarkJunior]
+[18Apr2025 20:08:20.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported DarkJunior to Sung_Jinwoo]
+[18Apr2025 20:08:22.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to DarkJunior]
+[18Apr2025 20:08:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> me esacuchan?
+[18Apr2025 20:09:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> medio cora
+[18Apr2025 20:09:52.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2939ms or 58 ticks behind
+[18Apr2025 20:10:01.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:12:08.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:12:10.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [Full House]
+[18Apr2025 20:12:28.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> ni idea
+[18Apr2025 20:12:33.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:12:34.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:12:36.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported Sung_Jinwoo to DarkJunior]
+[18Apr2025 20:13:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 20:13:49.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 20:17:32.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Disconnected
+[18Apr2025 20:17:32.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[18Apr2025 20:17:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior was slain by Sung_Jinwoo
+[18Apr2025 20:17:50.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported DarkJunior to Sung_Jinwoo]
+[18Apr2025 20:17:52.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> estaba a un golpe
+[18Apr2025 20:18:07.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DarkJunior> bye
+[18Apr2025 20:18:08.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior lost connection: Disconnected
+[18Apr2025 20:18:08.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior left the game
+[18Apr2025 20:18:29.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sung_Jinwoo lost connection: Disconnected
+[18Apr2025 20:18:29.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo left the game
+[18Apr2025 20:18:30.287] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: edinson123pro[/100.97.231.107:64987] logged in with entity id 44803 at (-290.43039969167995, 68.0, 197.53550606158623)
+[18Apr2025 20:18:30.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro joined the game
+[18Apr2025 20:18:54.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: edinson123pro lost connection: Disconnected
+[18Apr2025 20:18:54.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro left the game
+[18Apr2025 20:19:11.442] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/e2ab349d-f8c5-43a1-9ac0-cfe02f761f3e.json
+[18Apr2025 20:19:11.443] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/255c4b39-3815-4a34-af0b-a26ff25c31e7.json
+[18Apr2025 20:19:11.444] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/c31ff4f3-5a2f-4231-88be-8971f0e4b5c6.json
+[18Apr2025 20:19:11.444] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 20:19:11.444] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 20:19:11.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Apr2025 20:19:11.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Apr2025 20:19:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Apr2025 20:19:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Apr2025 20:19:12.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/cobgyms:cobgyms_dim
+[18Apr2025 20:19:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Apr2025 20:19:12.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Apr2025 20:19:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Apr2025 20:19:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cobgyms_dim): All chunks are saved
+[18Apr2025 20:19:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Apr2025 20:19:12.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Apr2025 20:19:12.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

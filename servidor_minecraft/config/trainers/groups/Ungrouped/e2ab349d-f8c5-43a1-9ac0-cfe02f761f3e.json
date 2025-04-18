@@ -1,0 +1,145 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:wimpod",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:rash",
+      "ability": "wimpout",
+      "moveset": [
+        "strugglebug",
+        "sandattack",
+        "defensecurl"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 5,
+        "defence": 20,
+        "special_attack": 19,
+        "special_defence": 28,
+        "speed": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:munchlax",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:sassy",
+      "ability": "pickup",
+      "moveset": [
+        "swallow",
+        "stockpile",
+        "screech",
+        "chipaway"
+      ],
+      "ivs": {
+        "hp": 7,
+        "attack": 26,
+        "defence": 6,
+        "special_attack": 5,
+        "special_defence": 28,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:chansey",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:calm",
+      "ability": "serenegrace",
+      "moveset": [
+        "takedown",
+        "fling",
+        "bestow",
+        "sing"
+      ],
+      "ivs": {
+        "hp": 14,
+        "attack": 19,
+        "defence": 9,
+        "special_attack": 17,
+        "special_defence": 22,
+        "speed": 4
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:lombre",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:naive",
+      "ability": "raindish",
+      "moveset": [
+        "bubblebeam",
+        "watersport",
+        "furyswipes",
+        "megadrain"
+      ],
+      "ivs": {
+        "hp": 29,
+        "defence": 25,
+        "special_attack": 5,
+        "speed": 15
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:corvisquire",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "cobblemon:docile",
+      "ability": "keeneye",
+      "moveset": [
+        "taunt",
+        "pluck",
+        "furyattack",
+        "powertrip"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 12,
+        "defence": 28,
+        "special_attack": 18,
+        "special_defence": 5,
+        "speed": 2
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "cobgyms complete_helper_command %player% 24 32 8 33",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": [
+    "255c4b39-3815-4a34-af0b-a26ff25c31e7",
+    "c31ff4f3-5a2f-4231-88be-8971f0e4b5c6"
+  ]
+}

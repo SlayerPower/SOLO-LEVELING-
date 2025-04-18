@@ -1368,8 +1368,10 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "great_ball": "2025-04-18 19:58:34 +0000",
       "azure_ball": "2025-04-18 00:44:56 +0000",
       "safari_ball": "2025-04-18 18:47:52 +0000",
+      "ultra_ball": "2025-04-18 19:58:34 +0000",
       "poke_ball": "2025-04-18 00:28:11 +0000"
     },
     "done": false
@@ -1556,13 +1558,15 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-04-18 00:43:20 +0000"
+      "has_blue_apricorn": "2025-04-18 00:43:20 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-04-18 00:43:20 +0000"
+      "has_blue_apricorn": "2025-04-18 00:43:20 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
     },
     "done": false
   },
@@ -1580,7 +1584,8 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-04-18 00:43:20 +0000"
+      "has_blue_apricorn": "2025-04-18 00:43:20 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
     },
     "done": false
   },
@@ -1626,6 +1631,18 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-04-18 20:12:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 19:58:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-18 18:49:18 +0000"
@@ -1637,6 +1654,24 @@
       "use_max_revive": "2025-04-18 18:41:21 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 19:58:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/repeat_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
@@ -1656,6 +1691,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/consumables/berry_juice": {
     "criteria": {
       "has_berries": "2025-04-18 19:06:47 +0000"
@@ -1674,6 +1715,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/ultra_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-18 18:39:24 +0000"
@@ -1691,6 +1738,12 @@
       "has_rabbit": "2025-04-18 19:14:17 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/level_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
@@ -1734,6 +1787,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/slate_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-18 18:49:18 +0000"
@@ -1770,9 +1829,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/miracle_seed": {
+    "criteria": {
+      "has_leaf": "2025-04-18 20:03:48 +0000"
+    },
+    "done": true
+  },
   "cobblemon:first_catch": {
     "criteria": {
       "catch": "2025-04-18 18:51:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/exp_share": {
+    "criteria": {
+      "has_exp": "2025-04-18 19:58:34 +0000"
     },
     "done": true
   },
@@ -1800,6 +1871,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/luxury_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": false
+  },
   "cobblemon:healing_machine": {
     "criteria": {
       "use_healing_machine": "2025-04-18 19:17:54 +0000"
@@ -1818,6 +1895,12 @@
       "has_the_recipe": "2025-04-18 18:52:45 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {

@@ -1,0 +1,118 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:grotle",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:lonely",
+      "ability": "overgrow",
+      "moveset": [
+        "bite",
+        "curse",
+        "razorleaf",
+        "withdraw"
+      ],
+      "ivs": {
+        "hp": 4,
+        "attack": 28,
+        "defence": 12,
+        "special_attack": 8,
+        "special_defence": 16,
+        "speed": 14
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:gligar",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:lonely",
+      "ability": "sandveil",
+      "moveset": [
+        "acrobatics",
+        "poisontail",
+        "feintattack",
+        "furycutter"
+      ],
+      "ivs": {
+        "hp": 14,
+        "attack": 24,
+        "defence": 11,
+        "special_attack": 26,
+        "special_defence": 26,
+        "speed": 12
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:pikachu",
+      "gender": "FEMALE",
+      "level": 24,
+      "nature": "cobblemon:relaxed",
+      "ability": "static",
+      "moveset": [
+        "agility",
+        "spark",
+        "feint",
+        "electroball"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 24,
+        "defence": 19,
+        "special_attack": 27,
+        "special_defence": 9,
+        "speed": 5
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:staravia",
+      "gender": "MALE",
+      "level": 24,
+      "nature": "cobblemon:jolly",
+      "ability": "intimidate",
+      "moveset": [
+        "whirlwind",
+        "endeavor",
+        "doubleteam",
+        "wingattack"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 11,
+        "defence": 18,
+        "special_attack": 21,
+        "special_defence": 1,
+        "speed": 27
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

@@ -13,8 +13,10 @@
       "minecraft:river": "2025-04-17 23:34:22 +0000",
       "minecraft:dripstone_caves": "2025-04-18 18:54:06 +0000",
       "minecraft:grove": "2025-04-18 19:46:54 +0000",
+      "minecraft:jagged_peaks": "2025-04-18 19:53:45 +0000",
       "minecraft:forest": "2025-04-17 23:34:21 +0000",
       "minecraft:flower_forest": "2025-04-17 23:49:26 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-18 19:51:23 +0000",
       "minecraft:meadow": "2025-04-18 19:46:39 +0000",
       "minecraft:plains": "2025-04-17 23:42:39 +0000"
     },
@@ -126,7 +128,8 @@
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-17 23:34:31 +0000",
-      "has_white_apricorn": "2025-04-17 23:29:28 +0000"
+      "has_white_apricorn": "2025-04-17 23:29:28 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000"
     },
     "done": false
   },
@@ -164,9 +167,10 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-17 23:34:31 +0000",
-      "has_white_apricorn": "2025-04-17 23:29:28 +0000"
+      "has_white_apricorn": "2025-04-17 23:29:28 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
     "criteria": {
@@ -184,9 +188,10 @@
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
       "has_white_apricorn": "2025-04-17 23:29:28 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000",
       "has_red_apricorn": "2025-04-17 23:39:38 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -257,7 +262,8 @@
       "potato": "2025-04-18 00:13:04 +0000",
       "mutton": "2025-04-17 23:31:23 +0000",
       "bread": "2025-04-18 18:37:30 +0000",
-      "rotten_flesh": "2025-04-18 00:04:36 +0000"
+      "rotten_flesh": "2025-04-18 00:04:36 +0000",
+      "salmon": "2025-04-18 20:11:24 +0000"
     },
     "done": false
   },
@@ -540,9 +546,10 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-04-17 23:34:31 +0000"
+      "has_blue_apricorn": "2025-04-17 23:34:31 +0000",
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
@@ -704,12 +711,14 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000",
       "has_red_apricorn": "2025-04-17 23:39:38 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000",
       "has_red_apricorn": "2025-04-17 23:39:38 +0000"
     },
     "done": false
@@ -734,6 +743,7 @@
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000",
       "has_red_apricorn": "2025-04-17 23:39:38 +0000"
     },
     "done": false
@@ -1301,6 +1311,7 @@
     "criteria": {
       "azure_ball": "2025-04-18 18:33:25 +0000",
       "safari_ball": "2025-04-18 19:42:38 +0000",
+      "heal_ball": "2025-04-18 20:07:19 +0000",
       "poke_ball": "2025-04-17 23:58:15 +0000"
     },
     "done": false
@@ -1785,6 +1796,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-18 20:15:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-04-18 18:50:07 +0000"
@@ -1863,6 +1880,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-18 19:18:59 +0000"
@@ -1874,6 +1897,12 @@
       "has_salmon": "2025-04-18 19:32:18 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/ultra_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1980,6 +2009,12 @@
   "cobblemon:recipes/held/mystic_water": {
     "criteria": {
       "has_water": "2025-04-18 18:54:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/slate_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-18 20:15:19 +0000"
     },
     "done": true
   },
