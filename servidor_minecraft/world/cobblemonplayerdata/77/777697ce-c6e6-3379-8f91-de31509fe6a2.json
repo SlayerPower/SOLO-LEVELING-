@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 11,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 14,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 8,
+    "totalPvWBattleVictoryCount": 11,
     "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -21,13 +21,16 @@
       "ghost": 1,
       "poison": 1,
       "normal": 2,
-      "ground": 1
+      "ground": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:snubbull": 1,
       "cobblemon:wooloo": 1,
       "cobblemon:parasect": 1,
-      "cobblemon:diggersby": 1
+      "cobblemon:diggersby": 1,
+      "cobblemon:gyarados": 1,
+      "cobblemon:magikarp": 1
     },
     "aspectsCollected": {}
   }

@@ -1,0 +1,64 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:zubat",
+      "gender": "MALE",
+      "level": 19,
+      "nature": "cobblemon:bold",
+      "ability": "innerfocus",
+      "moveset": [
+        "poisonfang",
+        "wingattack",
+        "meanlook",
+        "astonish"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 12,
+        "defence": 13,
+        "special_attack": 16,
+        "special_defence": 29,
+        "speed": 3
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:cranidos",
+      "gender": "FEMALE",
+      "level": 19,
+      "nature": "cobblemon:bold",
+      "ability": "moldbreaker",
+      "moveset": [
+        "scaryface",
+        "takedown",
+        "rocksmash",
+        "pursuit"
+      ],
+      "ivs": {
+        "hp": 21,
+        "attack": 21,
+        "defence": 13,
+        "special_attack": 10,
+        "special_defence": 21,
+        "speed": 17
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

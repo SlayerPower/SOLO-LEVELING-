@@ -11,10 +11,10 @@
     "totalCaptureCount": 10,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 26,
+    "totalBattleVictoryCount": 34,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 25,
-    "totalPvNBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 31,
+    "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -40,7 +40,9 @@
       "cobblemon:nickit": 1,
       "cobblemon:maschiff": 1,
       "cobblemon:klink": 1,
-      "cobblemon:cottonee": 1
+      "cobblemon:cottonee": 1,
+      "cobblemon:magikarp": 5,
+      "cobblemon:psyduck": 1
     },
     "aspectsCollected": {}
   }

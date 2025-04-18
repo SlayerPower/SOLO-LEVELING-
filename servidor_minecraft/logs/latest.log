@@ -1127,3 +1127,110 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 19:27:31.640] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
 [18Apr2025 19:27:52.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sung_Jinwoo moved too quickly! -0.3999999761581421,-10.124992998617794,-0.3609416994266894
 [18Apr2025 19:30:04.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> frillish
+[18Apr2025 19:30:32.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> gyardos
+[18Apr2025 19:30:39.701] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18Apr2025 19:30:57.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
+[18Apr2025 19:31:57.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> jellicent?
+[18Apr2025 19:32:34.297] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:32:34.363] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:32:34.441] [Worker-Main-62/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[18Apr2025 19:33:49.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> gyardos
+[18Apr2025 19:33:50.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> gyardos
+[18Apr2025 19:34:53.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 19:35:19.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Spectator Mode]
+[18Apr2025 19:35:21.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 19:35:23.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 19:36:17.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 19:36:20.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported Sung_Jinwoo to DarkJunior]
+[18Apr2025 19:36:27.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported Sung_Jinwoo to edinson123pro]
+[18Apr2025 19:37:48.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 19:37:53.856] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/7b146621-dad2-43d2-894d-425a81e53b04.json
+[18Apr2025 19:37:53.857] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/7b146621-dad2-43d2-894d-425a81e53b04.json
+[18Apr2025 19:37:53.858] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/7b146621-dad2-43d2-894d-425a81e53b04.json
+[18Apr2025 19:37:53.858] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/7b146621-dad2-43d2-894d-425a81e53b04.json
+[18Apr2025 19:37:53.858] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/7b146621-dad2-43d2-894d-425a81e53b04.json
+[18Apr2025 19:37:53.859] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/958e9e0c-0dab-497e-b464-3afa038adaf0.json
+[18Apr2025 19:37:53.860] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/958e9e0c-0dab-497e-b464-3afa038adaf0.json
+[18Apr2025 19:37:53.860] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/958e9e0c-0dab-497e-b464-3afa038adaf0.json
+[18Apr2025 19:37:53.860] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/958e9e0c-0dab-497e-b464-3afa038adaf0.json
+[18Apr2025 19:37:53.861] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/958e9e0c-0dab-497e-b464-3afa038adaf0.json
+[18Apr2025 19:37:53.861] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/958e9e0c-0dab-497e-b464-3afa038adaf0.json
+[18Apr2025 19:37:53.862] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.862] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.862] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.863] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.863] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.864] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.865] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.866] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.866] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:53.867] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/70503c03-e018-4896-89a9-21ea659226a7.json
+[18Apr2025 19:37:56.549] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_volcanic01 at 256,0,0
+[18Apr2025 19:37:56.551] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 2696ms
+[18Apr2025 19:37:56.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2662ms or 53 ticks behind
+[18Apr2025 19:37:57.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 19:38:01.048] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:38:05.210] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/85522c92-3c0c-4eec-b937-a0fe489095ff.json
+[18Apr2025 19:38:05.210] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/85522c92-3c0c-4eec-b937-a0fe489095ff.json
+[18Apr2025 19:38:05.211] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/85522c92-3c0c-4eec-b937-a0fe489095ff.json
+[18Apr2025 19:38:05.212] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/85522c92-3c0c-4eec-b937-a0fe489095ff.json
+[18Apr2025 19:38:05.212] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/85522c92-3c0c-4eec-b937-a0fe489095ff.json
+[18Apr2025 19:38:05.213] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/36da4972-1d7d-4c0f-8151-e62842a0d84d.json
+[18Apr2025 19:38:05.214] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/36da4972-1d7d-4c0f-8151-e62842a0d84d.json
+[18Apr2025 19:38:05.214] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/36da4972-1d7d-4c0f-8151-e62842a0d84d.json
+[18Apr2025 19:38:05.215] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/36da4972-1d7d-4c0f-8151-e62842a0d84d.json
+[18Apr2025 19:38:05.215] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/36da4972-1d7d-4c0f-8151-e62842a0d84d.json
+[18Apr2025 19:38:05.216] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/36da4972-1d7d-4c0f-8151-e62842a0d84d.json
+[18Apr2025 19:38:05.217] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.217] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.217] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.218] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.218] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.219] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.219] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.220] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.220] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.222] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/6a930455-85d0-48c0-a58d-40a7c18d78ac.json
+[18Apr2025 19:38:05.234] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_volcanic01 at 0,0,0
+[18Apr2025 19:38:05.239] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 30ms
+[18Apr2025 19:38:10.422] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:38:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported Sung_Jinwoo to edinson123pro]
+[18Apr2025 19:38:49.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Spectator Mode]
+[18Apr2025 19:38:55.210] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:38:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 19:39:06.117] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:39:07.948] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:39:16.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported Sung_Jinwoo to DarkJunior]
+[18Apr2025 19:39:44.429] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:39:53.455] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.455] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.456] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.456] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.457] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.457] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.458] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/003d7301-fadf-4c07-8e5e-d37cae119a32.json
+[18Apr2025 19:39:53.459] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.459] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.459] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.460] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.461] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.461] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.462] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.462] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/a8eb15f1-21b7-4384-bfda-575ac7a49942.json
+[18Apr2025 19:39:53.463] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.463] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.463] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.465] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.473] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.480] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.487] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.489] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.496] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.497] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.498] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.500] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/2e567987-5dae-470f-9ceb-ddd708d5c3b4.json
+[18Apr2025 19:39:53.511] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_aquatic01 at 128,0,0
+[18Apr2025 19:39:53.524] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 70ms
+[18Apr2025 19:39:55.375] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[18Apr2025 19:40:03.850] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[18Apr2025 19:40:38.184] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json

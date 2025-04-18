@@ -1,0 +1,175 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:lucario",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:sassy",
+      "ability": "steadfast",
+      "moveset": [
+        "meteormash",
+        "healpulse",
+        "quickguard",
+        "mefirst"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 12,
+        "defence": 13,
+        "special_attack": 31,
+        "special_defence": 19,
+        "speed": 10
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:arctozolt",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "cobblemon:naughty",
+      "ability": "voltabsorb",
+      "moveset": [
+        "discharge",
+        "slam",
+        "freezedry",
+        "avalanche"
+      ],
+      "ivs": {
+        "hp": 23,
+        "attack": 18,
+        "defence": 29,
+        "special_attack": 17,
+        "special_defence": 24,
+        "speed": 19
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "genderless"
+      ]
+    },
+    {
+      "species": "cobblemon:goodra",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:serious",
+      "ability": "sapsipper",
+      "moveset": [
+        "muddywater",
+        "bodyslam",
+        "curse",
+        "dragonpulse"
+      ],
+      "ivs": {
+        "hp": 5,
+        "attack": 12,
+        "defence": 27,
+        "special_attack": 5,
+        "special_defence": 26,
+        "speed": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:greninja",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:calm",
+      "ability": "torrent",
+      "moveset": [
+        "doubleteam",
+        "extrasensory",
+        "substitute",
+        "feintattack"
+      ],
+      "ivs": {
+        "hp": 3,
+        "attack": 10,
+        "defence": 29,
+        "special_attack": 11,
+        "special_defence": 28,
+        "speed": 29
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:primarina",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:adamant",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "moonblast",
+        "captivate",
+        "hypervoice"
+      ],
+      "ivs": {
+        "hp": 19,
+        "attack": 13,
+        "defence": 27,
+        "special_attack": 15,
+        "special_defence": 8,
+        "speed": 5
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:garchomp",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:careful",
+      "ability": "sandveil",
+      "moveset": [
+        "dragonrush",
+        "dig",
+        "dragonclaw",
+        "slash"
+      ],
+      "ivs": {
+        "hp": 8,
+        "attack": 2,
+        "defence": 10,
+        "special_attack": 11,
+        "special_defence": 25,
+        "speed": 11
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "cobgyms complete_helper_command %player% 60 160 8 33",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": [
+    "003d7301-fadf-4c07-8e5e-d37cae119a32",
+    "a8eb15f1-21b7-4384-bfda-575ac7a49942"
+  ]
+}

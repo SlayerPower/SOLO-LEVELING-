@@ -1,0 +1,145 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:lapras",
+      "gender": "MALE",
+      "level": 60,
+      "nature": "cobblemon:careful",
+      "ability": "waterabsorb",
+      "moveset": [
+        "perishsong",
+        "hydropump",
+        "raindance",
+        "icebeam"
+      ],
+      "ivs": {
+        "hp": 9,
+        "attack": 14,
+        "defence": 8,
+        "special_attack": 22,
+        "special_defence": 23,
+        "speed": 12
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:metagross",
+      "gender": "GENDERLESS",
+      "level": 60,
+      "nature": "cobblemon:timid",
+      "ability": "clearbody",
+      "moveset": [
+        "meteormash",
+        "scaryface",
+        "psychic",
+        "miracleeye"
+      ],
+      "ivs": {
+        "hp": 7,
+        "attack": 3,
+        "defence": 11,
+        "special_attack": 9,
+        "special_defence": 14,
+        "speed": 1
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "genderless"
+      ]
+    },
+    {
+      "species": "cobblemon:lanturn",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:docile",
+      "ability": "illuminate",
+      "moveset": [
+        "iondeluge",
+        "hydropump",
+        "takedown",
+        "flail"
+      ],
+      "ivs": {
+        "hp": 22,
+        "attack": 6,
+        "defence": 23,
+        "special_attack": 17,
+        "special_defence": 10,
+        "speed": 11
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:basculegion",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:relaxed",
+      "ability": "swiftswim",
+      "moveset": [
+        "headsmash",
+        "doubleedge",
+        "thrash",
+        "wavecrash"
+      ],
+      "ivs": {
+        "hp": 26,
+        "attack": 1,
+        "defence": 2,
+        "special_attack": 20,
+        "special_defence": 1,
+        "speed": 30
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:feraligatr",
+      "gender": "FEMALE",
+      "level": 60,
+      "nature": "cobblemon:modest",
+      "ability": "torrent",
+      "moveset": [
+        "aquatail",
+        "thrash",
+        "screech",
+        "slash"
+      ],
+      "ivs": {
+        "hp": 31,
+        "attack": 21,
+        "defence": 31,
+        "special_attack": 14,
+        "special_defence": 2,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

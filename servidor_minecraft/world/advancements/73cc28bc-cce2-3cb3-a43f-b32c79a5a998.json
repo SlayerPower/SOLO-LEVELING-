@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-17 23:26:41 +0000",
+      "minecraft:beach": "2025-04-18 19:30:03 +0000",
       "minecraft:dark_forest": "2025-04-17 23:31:50 +0000",
       "minecraft:river": "2025-04-17 23:34:22 +0000",
       "minecraft:dripstone_caves": "2025-04-18 18:54:06 +0000",
@@ -790,7 +791,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-17 23:43:16 +0000",
-      "minecraft:zombie": "2025-04-17 23:59:19 +0000"
+      "minecraft:zombie": "2025-04-17 23:59:19 +0000",
+      "minecraft:drowned": "2025-04-18 19:33:34 +0000"
     },
     "done": false
   },
@@ -1858,6 +1860,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-18 19:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 18:55:03 +0000"
@@ -2020,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-18 19:32:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-18 18:56:16 +0000"
@@ -2065,6 +2079,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 18:55:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-18 19:32:18 +0000"
     },
     "done": true
   },

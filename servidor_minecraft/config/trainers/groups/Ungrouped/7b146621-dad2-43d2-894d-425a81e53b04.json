@@ -1,0 +1,64 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:monferno",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:careful",
+      "ability": "blaze",
+      "moveset": [
+        "flamewheel",
+        "furyswipes",
+        "taunt",
+        "scratch"
+      ],
+      "ivs": {
+        "hp": 13,
+        "attack": 1,
+        "defence": 10,
+        "special_attack": 26,
+        "special_defence": 11,
+        "speed": 28
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:nosepass",
+      "gender": "FEMALE",
+      "level": 20,
+      "nature": "cobblemon:hardy",
+      "ability": "magnetpull",
+      "moveset": [
+        "spark",
+        "rest",
+        "thunderwave",
+        "rockthrow"
+      ],
+      "ivs": {
+        "hp": 28,
+        "attack": 23,
+        "defence": 24,
+        "special_attack": 10,
+        "special_defence": 20,
+        "speed": 21
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

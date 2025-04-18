@@ -1,15 +1,15 @@
 {
   "trainers": [
-    "a673d903-3749-4cbe-8606-370f68f25389",
-    "27de8be7-daf5-45c6-bf97-82e181634acf",
-    "6d552ea3-946c-4947-a4ee-8f35473ec74b"
+    "7b146621-dad2-43d2-894d-425a81e53b04",
+    "958e9e0c-0dab-497e-b464-3afa038adaf0",
+    "70503c03-e018-4896-89a9-21ea659226a7"
   ],
   "originalDim": "minecraft:overworld",
   "adjustX": 256.0,
   "originalPos": [
-    -128.19206230508726,
-    -6.003504295772187,
-    357.44482107852804
+    -236.4119894074466,
+    69.9375,
+    186.0097719723231
   ],
-  "highestLevelBeaten": 12
+  "highestLevelBeaten": 12.0
 }
