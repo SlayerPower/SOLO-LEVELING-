@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-18 00:12:30 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/ability_shield": {
     "criteria": {
       "has_shield": "2025-04-17 23:58:15 +0000"
@@ -100,6 +106,7 @@
       "obtain_aspear_berry": "2025-04-18 00:10:09 +0000",
       "obtain_persim_berry": "2025-04-17 23:43:04 +0000",
       "obtain_oran_berry": "2025-04-17 23:58:15 +0000",
+      "obtain_cheri_berry": "2025-04-18 00:15:32 +0000",
       "obtain_wepear_berry": "2025-04-17 23:58:15 +0000"
     },
     "done": false
@@ -310,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-18 00:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-04-17 23:55:57 +0000"
@@ -331,6 +344,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-18 00:06:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-18 00:12:30 +0000"
     },
     "done": true
   },
@@ -416,6 +435,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-17 23:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-04-18 00:12:52 +0000"
     },
     "done": true
   },
@@ -612,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-18 00:09:13 +0000"
@@ -645,6 +676,12 @@
   "cobblemon:harvest_apricorn": {
     "criteria": {
       "check_inv": "2025-04-17 23:29:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/whipped_dream": {
+    "criteria": {
+      "has_sweet_berry": "2025-04-18 00:23:02 +0000"
     },
     "done": true
   },
@@ -817,6 +854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-18 00:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 23:48:54 +0000"
@@ -883,6 +926,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 23:58:15 +0000"
@@ -916,6 +965,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-18 00:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-18 00:12:52 +0000"
     },
     "done": true
   },
@@ -962,6 +1017,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/blocks/gilded_chests": {
     "criteria": {
       "has_gold": "2025-04-18 00:11:13 +0000"
@@ -971,6 +1032,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-17 23:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-04-18 00:12:52 +0000"
     },
     "done": true
   },
@@ -995,6 +1062,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-04-17 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-18 00:12:31 +0000"
     },
     "done": true
   },
@@ -1083,6 +1156,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-18 00:12:30 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-18 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-17 23:37:12 +0000"
@@ -1164,6 +1255,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-17 23:29:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2025-04-18 00:18:09 +0000"
     },
     "done": true
   },
@@ -1250,6 +1347,18 @@
       "has_red_apricorn": "2025-04-17 23:39:38 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
@@ -1383,6 +1492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-18 00:22:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-17 23:37:04 +0000"
@@ -1420,11 +1535,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-18 00:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-17 23:56:21 +0000",
       "cooked_mutton": "2025-04-17 23:38:06 +0000",
       "cooked_beef": "2025-04-17 23:42:18 +0000",
+      "porkchop": "2025-04-18 00:13:37 +0000",
+      "potato": "2025-04-18 00:13:04 +0000",
       "mutton": "2025-04-17 23:31:23 +0000",
       "rotten_flesh": "2025-04-18 00:04:36 +0000"
     },
@@ -1439,6 +1562,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-17 23:47:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-18 00:15:11 +0000"
     },
     "done": true
   },

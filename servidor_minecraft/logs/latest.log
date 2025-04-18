@@ -22,3 +22,46 @@
 [18Apr2025 00:06:53.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [We Need to Go Deeper]
 [18Apr2025 00:09:22.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [A Seedy Place]
 [18Apr2025 00:09:56.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [Isn't It Iron Pick]
+[18Apr2025 00:19:24.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> xd
+[18Apr2025 00:19:27.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> mi papa de la nada
+[18Apr2025 00:19:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> se molesta con uno
+[18Apr2025 00:19:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> pero bueno normal
+[18Apr2025 00:19:42.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> ahorita estoy
+[18Apr2025 00:20:09.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-387, y=84, z=333} BlockPos{x=-388, y=82, z=334}
+[18Apr2025 00:21:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> q paso xd
+[18Apr2025 00:21:08.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [A New Friend!]
+[18Apr2025 00:21:13.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> d
+[18Apr2025 00:21:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> dodne estan
+[18Apr2025 00:22:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [A New Friend!]
+[18Apr2025 00:26:13.741] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cc376829-3790-4be4-ba96-207fc091c2b1
+[18Apr2025 00:26:13.741] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cc376829-3790-4be4-ba96-207fc091c2b1
+[18Apr2025 00:26:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior was shot by Skeleton
+[18Apr2025 00:26:18.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior lost connection: Disconnected
+[18Apr2025 00:26:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior left the game
+[18Apr2025 00:26:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> nose
+[18Apr2025 00:28:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [The First of Many]
+[18Apr2025 00:28:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 00:28:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 00:28:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 00:28:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> agarra
+[18Apr2025 00:28:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> de eddy
+[18Apr2025 00:30:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 00:30:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:31:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Spectator Mode]
+[18Apr2025 00:31:46.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:32:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [A Seedy Place]
+[18Apr2025 00:33:08.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6255, l='ServerLevel[world]', x=-267.70, y=68.00, z=211.55] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:34:11.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6256, l='ServerLevel[world]', x=-252.97, y=68.00, z=218.12] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:34:19.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6367, l='ServerLevel[world]', x=-266.70, y=67.00, z=229.30] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:34:34.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Spectator Mode]
+[18Apr2025 00:34:38.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:34:40.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 00:34:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:35:13.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> q es eso
+[18Apr2025 00:35:25.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 00:35:38.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:36:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> xd
+[18Apr2025 00:36:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> como se hace
+[18Apr2025 00:36:23.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> xd
+[18Apr2025 00:36:47.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6259, l='ServerLevel[world]', x=-299.62, y=68.00, z=190.63] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:37:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]

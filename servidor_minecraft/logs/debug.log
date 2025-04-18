@@ -2919,3 +2919,174 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [18Apr2025 00:16:41.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
 [18Apr2025 00:16:41.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [18Apr2025 00:16:41.727] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:17:06.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:17:06.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:17:11.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:17:11.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:17:11.778] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:17:41.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:17:41.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:17:41.828] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:18:11.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:18:11.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:18:11.878] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:18:41.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:18:41.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:18:41.934] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:19:11.975] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:19:11.975] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:19:11.987] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:19:24.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> xd
+[18Apr2025 00:19:27.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> mi papa de la nada
+[18Apr2025 00:19:33.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> se molesta con uno
+[18Apr2025 00:19:37.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> pero bueno normal
+[18Apr2025 00:19:42.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:19:42.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:19:42.027] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:19:42.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> ahorita estoy
+[18Apr2025 00:20:09.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-387, y=84, z=333} BlockPos{x=-388, y=82, z=334}
+[18Apr2025 00:20:12.113] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:20:12.114] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:20:12.123] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:20:42.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:20:42.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:20:42.128] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:21:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> q paso xd
+[18Apr2025 00:21:08.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior has made the advancement [A New Friend!]
+[18Apr2025 00:21:12.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:21:12.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:21:12.179] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:21:13.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> d
+[18Apr2025 00:21:16.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> dodne estan
+[18Apr2025 00:21:42.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:21:42.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:21:42.228] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:22:06.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:22:06.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:22:12.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:22:12.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:22:12.278] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:22:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: edinson123pro has made the advancement [A New Friend!]
+[18Apr2025 00:22:42.325] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:22:42.325] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:22:42.328] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:23:12.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:23:12.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:23:12.377] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:23:42.425] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:23:42.425] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:23:42.428] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:24:12.475] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:24:12.475] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:24:12.478] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:24:42.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:24:42.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:24:42.527] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:25:12.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:25:12.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:25:12.577] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:25:42.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:25:42.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:25:42.629] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:26:12.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[18Apr2025 00:26:12.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:26:12.678] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[18Apr2025 00:26:13.741] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cc376829-3790-4be4-ba96-207fc091c2b1
+[18Apr2025 00:26:13.741] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cc376829-3790-4be4-ba96-207fc091c2b1
+[18Apr2025 00:26:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior was shot by Skeleton
+[18Apr2025 00:26:18.293] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkJunior lost connection: Disconnected
+[18Apr2025 00:26:18.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkJunior left the game
+[18Apr2025 00:26:42.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:26:42.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:26:42.727] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:26:44.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> nose
+[18Apr2025 00:27:06.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:27:06.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:27:12.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:27:12.775] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:27:12.777] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:27:42.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:27:42.825] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:27:42.827] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:28:11.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [The First of Many]
+[18Apr2025 00:28:12.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:28:12.875] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:28:12.877] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:28:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 00:28:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 00:28:27.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Teleported edinson123pro to Sung_Jinwoo]
+[18Apr2025 00:28:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> agarra
+[18Apr2025 00:28:35.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> de eddy
+[18Apr2025 00:28:42.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:28:42.925] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:28:42.927] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:29:12.975] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:29:12.975] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:29:12.977] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:29:43.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:29:43.025] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:29:43.027] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:30:13.075] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:30:13.075] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:30:13.077] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:30:22.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 00:30:26.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:30:43.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:30:43.125] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:30:43.127] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:31:13.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:31:13.175] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:31:13.177] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:31:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Spectator Mode]
+[18Apr2025 00:31:43.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:31:43.225] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:31:43.230] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:31:46.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:32:06.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Apr2025 00:32:06.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Apr2025 00:32:13.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:32:13.275] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:32:13.277] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:32:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sung_Jinwoo has made the advancement [A Seedy Place]
+[18Apr2025 00:32:43.325] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:32:43.325] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:32:43.327] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:33:08.270] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6255, l='ServerLevel[world]', x=-267.70, y=68.00, z=211.55] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:33:13.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:33:13.375] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:33:13.377] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:33:43.425] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:33:43.425] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:33:43.430] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:34:11.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6256, l='ServerLevel[world]', x=-252.97, y=68.00, z=218.12] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:34:13.478] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:34:13.478] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:34:13.480] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:34:19.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6367, l='ServerLevel[world]', x=-266.70, y=67.00, z=229.30] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:34:34.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Spectator Mode]
+[18Apr2025 00:34:38.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:34:40.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 00:34:43.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:34:43.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:34:43.527] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:34:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:35:13.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> q es eso
+[18Apr2025 00:35:13.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:35:13.575] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:35:13.577] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:35:25.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
+[18Apr2025 00:35:38.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Survival Mode]
+[18Apr2025 00:35:43.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:35:43.625] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:35:43.628] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:36:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> xd
+[18Apr2025 00:36:13.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:36:13.675] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:36:13.677] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:36:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> como se hace
+[18Apr2025 00:36:23.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sung_Jinwoo> xd
+[18Apr2025 00:36:43.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[18Apr2025 00:36:43.725] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[18Apr2025 00:36:43.728] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[18Apr2025 00:36:47.851] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6259, l='ServerLevel[world]', x=-299.62, y=68.00, z=190.63] died, message: 'Farmer was slain by Sung_Jinwoo'
+[18Apr2025 00:37:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sung_Jinwoo: Set own game mode to Creative Mode]
